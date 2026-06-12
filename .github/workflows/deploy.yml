@@ -6,7 +6,7 @@ on:
       ECRURL:
         description: "ECR Registry URL (with / at end)"
         required: true
-        default: "081654307023.dkr.ecr.ap-south-1.amazonaws.com/"
+        default: "202077713883.dkr.ecr.ap-south-1.amazonaws.com/"
       REPO:
         description: "Repository Name"
         required: true
